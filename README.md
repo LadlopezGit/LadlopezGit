@@ -10,3 +10,6 @@
 
 - [IT Specialist - Databases](https://www.credly.com/badges/d155f00f-c8b8-4dd2-8c00-d98e2b265075/public_url)  
   Certiport, a Pearson VUE business · Issued June 2026 · Expires June 2031
+## 📊 Assessments
+
+- **TOPCIT — Level 2** · Score: **380/1000** · July 2026
