@@ -1,4 +1,4 @@
-## Hi, I'm LadlopezGit 👋
+## Hi, I'm Jerald Lopez 👋
 
 - 💻 **Team Lead · Backend Developer**
 - 🤝 Turning client needs into practical software solutions
